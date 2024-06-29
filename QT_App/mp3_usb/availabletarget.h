@@ -1,0 +1,5 @@
+#ifndef AVAILABLETARGET_H
+#define AVAILABLETARGET_H
+#define DEV_PC    1
+#define DEV_RPI    2
+#endif // AVAILABLETARGET_H

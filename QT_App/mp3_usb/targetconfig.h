@@ -1,0 +1,4 @@
+#ifndef TARGETCONFIG_H
+#define TARGETCONFIG_H
+#define TARGET_DEV   DEV_RPI
+#endif // TARGETCONFIG_H

@@ -1,0 +1,8 @@
+/home/hoda/mp3_usb/build/CMakeFiles/mp3_usb.dir
+/home/hoda/mp3_usb/build/CMakeFiles/edit_cache.dir
+/home/hoda/mp3_usb/build/CMakeFiles/rebuild_cache.dir
+/home/hoda/mp3_usb/build/CMakeFiles/list_install_components.dir
+/home/hoda/mp3_usb/build/CMakeFiles/install.dir
+/home/hoda/mp3_usb/build/CMakeFiles/install/local.dir
+/home/hoda/mp3_usb/build/CMakeFiles/install/strip.dir
+/home/hoda/mp3_usb/build/CMakeFiles/mp3_usb_autogen.dir

@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/hoda/mp3_usb/build/mp3_usb_autogen",
+	"CMAKE_BINARY_DIR" : "/home/hoda/mp3_usb/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/hoda/mp3_usb/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/hoda/mp3_usb",
+	"CMAKE_SOURCE_DIR" : "/home/hoda/mp3_usb",
+	"INCLUDE_DIR" : "/home/hoda/mp3_usb/build/mp3_usb_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/hoda/mp3_usb/flashStatus.txt",
+		"/home/hoda/mp3_usb/displayedSongs.txt",
+		"/home/hoda/mp3_usb/media/mp3_icon.png",
+		"/home/hoda/mp3_usb/media/usb_icon.png"
+	],
+	"LOCK_FILE" : "/home/hoda/mp3_usb/build/CMakeFiles/mp3_usb_autogen.dir/AutoRcc_musicfiles_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "musicfiles" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_musicfiles.cpp",
+	"RCC_EXECUTABLE" : "/home/hoda/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/hoda/mp3_usb/build/CMakeFiles/mp3_usb_autogen.dir/AutoRcc_musicfiles_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/hoda/mp3_usb/musicfiles.qrc",
+	"VERBOSITY" : 0
+}

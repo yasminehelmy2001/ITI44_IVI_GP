@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/hoda/mp3_usb/build/mp3_usb_autogen",
+	"CMAKE_BINARY_DIR" : "/home/hoda/mp3_usb/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/hoda/mp3_usb/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/hoda/mp3_usb",
+	"CMAKE_SOURCE_DIR" : "/home/hoda/mp3_usb",
+	"INCLUDE_DIR" : "/home/hoda/mp3_usb/build/mp3_usb_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/hoda/mp3_usb/media/ac.png",
+		"/home/hoda/mp3_usb/media/colorful.jpg",
+		"/home/hoda/mp3_usb/media/colorfulBackground.jpeg",
+		"/home/hoda/mp3_usb/media/pattern.png",
+		"/home/hoda/mp3_usb/media/sporty.jpg",
+		"/home/hoda/mp3_usb/media/darkBackground.png",
+		"/home/hoda/mp3_usb/media/blue-wallpaper-preview.jpg",
+		"/home/hoda/mp3_usb/media/blurredBlue.jpg",
+		"/home/hoda/mp3_usb/media/purple.jpg",
+		"/home/hoda/mp3_usb/media/galaxy.jpg"
+	],
+	"LOCK_FILE" : "/home/hoda/mp3_usb/build/CMakeFiles/mp3_usb_autogen.dir/AutoRcc_background_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "background" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_background.cpp",
+	"RCC_EXECUTABLE" : "/home/hoda/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/hoda/mp3_usb/build/CMakeFiles/mp3_usb_autogen.dir/AutoRcc_background_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/hoda/mp3_usb/background.qrc",
+	"VERBOSITY" : 0
+}
